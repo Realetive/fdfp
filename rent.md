@@ -27,6 +27,8 @@
       </div>
     </a>
   </div>
+</div>
+<div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
       <img src="http://placehold.it/450x350" class="img-responsive" alt="">
@@ -51,6 +53,8 @@
       </div>
     </a>
   </div>
+</div>
+<div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
       <img src="http://placehold.it/450x350" class="img-responsive" alt="">
