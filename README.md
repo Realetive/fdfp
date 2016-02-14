@@ -30,14 +30,8 @@
 | суббота     | с 12 до 6 утра   |
 | воскресенье | с 12 до полуночи |
 
-<div class="media">
-  <div class="media-left">
-    <a href="contacts.html">
-      <img class="media-object img-circle" src="http://placehold.it/64x64" alt="Никита Чернышев">
-    </a>
-  </div>
-  <div class="media-body">
-    <h4 class="media-heading">Никита Чернышев, управляющий</h4>
-    <p>Всех, кто хочет расслабиться и попить хорошего кофейка поутру, прошу к нам!</p>
-  </div>
-</div>
+
+<blockquote class="blockquote">
+  <p>Всех, кто хочет расслабиться и попить хорошего кофейка поутру, прошу к нам!</p>
+  <footer>Никита Чернышев, управляющий</footer>
+</blockquote>
