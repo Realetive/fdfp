@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Главная страница](index.md)
-* Афиша мероприятий
+* [Афиша мероприятий](afisha.md)
 
