@@ -6,7 +6,7 @@
    * [Март 2016](afisha/2016-03.md)
    * [Апрель 2016](afisha/2016-04.md)
 * [События](events/README.md)
-   * Категории
+   * [Категории](events/categories.md)
    * Мафия
    * Ночь кино
 * [Игры](games/README.md)
