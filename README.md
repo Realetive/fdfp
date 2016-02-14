@@ -32,7 +32,7 @@
 
 <div class="media">
   <div class="media-left">
-    <a href="#">
+    <a href="contacts.html">
       <img class="media-object img-circle" src="http://placehold.it/64x64" alt="Никита Чернышев">
     </a>
   </div>
