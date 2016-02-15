@@ -21,6 +21,6 @@
    * [Коворкинг](rent/coworking.md)
    * [Игровой зал](rent/igrovoi_zal.md)
    * [Бар](rent/bar.md)
-   * Коридоры
+   * [Коридоры](rent/koridori.md)
 * [Контакты](contacts.md)
 
