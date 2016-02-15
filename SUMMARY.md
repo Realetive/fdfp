@@ -18,7 +18,7 @@
    * [«Хижина»](rent/hizhina.md)
    * [«Африка»](rent/afrika.md)
    * [«Мафия»](rent/mafiya.md)
-   * Коворкинг
+   * [Коворкинг](rent/coworking.md)
    * Игровой зал
    * Бар
    * Коридоры
