@@ -11,7 +11,7 @@
    * [Ночь кино](events/kinonoch.md)
 * [Игры](games/README.md)
    * [Настольные игры](games/board_games.md)
-   * XBox
+   * [XBox](games/xbox.md)
 * [Аренда залов](rent/README.md)
    * Основной зал
    * «Восток»
