@@ -10,7 +10,7 @@
    * [Мафия](events/mafiya.md)
    * Ночь кино
 * [Игры](games/README.md)
-   * Настольные игры
+   * [Настольные игры](games/board_games.md)
    * XBox
 * [Аренда залов](rent/README.md)
    * Основной зал
