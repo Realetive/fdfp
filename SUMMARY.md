@@ -17,7 +17,7 @@
    * [«Восток»](rent/vostok.md)
    * [«Хижина»](rent/hizhina.md)
    * [«Африка»](rent/afrika.md)
-   * «Мафия»
+   * [«Мафия»](rent/mafiya.md)
    * Коворкинг
    * Игровой зал
    * Бар
