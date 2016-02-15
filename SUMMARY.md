@@ -7,7 +7,7 @@
    * [Апрель 2016](afisha/2016-04.md)
 * [События](events/README.md)
    * [Категории](events/categories.md)
-   * Мафия
+   * [Мафия](events/mafiya.md)
    * Ночь кино
 * [Игры](games/README.md)
    * Настольные игры
