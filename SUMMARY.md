@@ -8,7 +8,7 @@
 * [События](events/README.md)
    * [Категории](events/categories.md)
    * [Мафия](events/mafiya.md)
-   * Ночь кино
+   * [Ночь кино](events/kinonoch.md)
 * [Игры](games/README.md)
    * [Настольные игры](games/board_games.md)
    * XBox
