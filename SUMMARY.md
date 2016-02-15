@@ -14,7 +14,7 @@
    * [XBox](games/xbox.md)
 * [Аренда залов](rent/README.md)
    * [Основной зал](rent/osnovnoi_zal.md)
-   * «Восток»
+   * [«Восток»](rent/vostok.md)
    * «Хижина»
    * «Африка»
    * «Мафия»
