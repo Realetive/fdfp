@@ -13,7 +13,7 @@
    * [Настольные игры](games/board_games.md)
    * [XBox](games/xbox.md)
 * [Аренда залов](rent/README.md)
-   * Основной зал
+   * [Основной зал](rent/osnovnoi_zal.md)
    * «Восток»
    * «Хижина»
    * «Африка»
