@@ -19,7 +19,7 @@
    * [«Африка»](rent/afrika.md)
    * [«Мафия»](rent/mafiya.md)
    * [Коворкинг](rent/coworking.md)
-   * Игровой зал
+   * [Игровой зал](rent/igrovoi_zal.md)
    * Бар
    * Коридоры
 * [Контакты](contacts.md)
