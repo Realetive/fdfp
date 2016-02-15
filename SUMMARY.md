@@ -15,7 +15,7 @@
 * [Аренда залов](rent/README.md)
    * [Основной зал](rent/osnovnoi_zal.md)
    * [«Восток»](rent/vostok.md)
-   * «Хижина»
+   * [«Хижина»](rent/hizhina.md)
    * «Африка»
    * «Мафия»
    * Коворкинг
