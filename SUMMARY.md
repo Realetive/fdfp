@@ -16,7 +16,7 @@
    * [Основной зал](rent/osnovnoi_zal.md)
    * [«Восток»](rent/vostok.md)
    * [«Хижина»](rent/hizhina.md)
-   * «Африка»
+   * [«Африка»](rent/afrika.md)
    * «Мафия»
    * Коворкинг
    * Игровой зал
