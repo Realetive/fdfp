@@ -20,7 +20,7 @@
    * [«Мафия»](rent/mafiya.md)
    * [Коворкинг](rent/coworking.md)
    * [Игровой зал](rent/igrovoi_zal.md)
-   * Бар
+   * [Бар](rent/bar.md)
    * Коридоры
 * [Контакты](contacts.md)
 
