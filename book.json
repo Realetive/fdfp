@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "addcssjs",
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {}
+}
