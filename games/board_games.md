@@ -176,11 +176,11 @@
 
 #### На двоих
 
-Шахматы
-Шашки
-Mr.Jack
-Painc at the Lab
-Revolver
+1. Шахматы
+2. Шашки
+3. Mr.Jack
+4. Painc at the Lab
+5. Revolver
 
 #### на 2-3 игроков
 
