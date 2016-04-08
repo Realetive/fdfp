@@ -129,7 +129,7 @@
 125.	Renegade Ops
 126.	Resident Evil Rev.
 127.	Rocket Knight
-128. Rocket Riot
+128.    Rocket Riot
 129. 	Runner 2
 130.	Saints Row 4
 131.	Saints Row: The Third
