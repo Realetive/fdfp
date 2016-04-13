@@ -6,43 +6,43 @@
 
 ## Престоящие события
 
-### 15 февраля<sup class="small">пн</sup> &times; <small>с 12 до полуночи</small>
+### 14 Апреля<sup class="small">пн</sup> &times; <small>с 12 до полуночи</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 16 февраля<sup class="small">вт</sup> &times; <small>с 12 до полуночи</small>
+### 15 Апреля<sup class="small">вт</sup> &times; <small>с 12 до полуночи</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 17 февраля<sup class="small">ср</sup> &times; <small>с 12 до полуночи</small>
+### 16 Апреля<sup class="small">ср</sup> &times; <small>с 12 до полуночи</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 18 февраля<sup class="small">чт</sup> &times; <small>с 12 до полуночи</small>
+### 17 Апреля<sup class="small">чт</sup> &times; <small>с 12 до полуночи</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 19 февраля<sup class="small">пт</sup> &times; <small>с 12 до 6 утра</small>
+### 18 Апреля<sup class="small">пт</sup> &times; <small>с 12 до 6 утра</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 20 февраля<sup class="small">сб</sup> &times; <small>с 12 до 6 утра</small>
+### 19 Апреля<sup class="small">сб</sup> &times; <small>с 12 до 6 утра</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
 | 19-21 | [Общий зал](https://google.com) | [Test](https://google.com) |
 
-### 21 февраля<sup class="small">вс</sup> &times; <small>с 12 до полуночи</small>
+### 20 Апреля<sup class="small">вс</sup> &times; <small>с 12 до полуночи</small>
 
 | Время | Зал                             | Мероприятие                |
 | ------| ------------------------------- | -------------------------- |
