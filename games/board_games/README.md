@@ -4,7 +4,7 @@
 
 ## По популярности (ТОП-10 игр)
 
-1. Alias
+1. [Alias](alias.md)
 2. Activity
 3. Doble
 4. Манчкин
@@ -59,7 +59,7 @@
 41.	Шашки
 42.	Activity
 43.	Activity +18
-44.	Alias
+44.	[Alias](alias.md)
 45.	Civilization
 46.	DixiT
 47.	Doble
@@ -146,7 +146,7 @@
 46. Колонизаторы.Первопроходцы и пираты
 47. Держу Пари
 48. Концепт
-49. Alias
+49. [Alias](alias.md)
 50. Evolution
 
 #### с 12 лет
@@ -263,7 +263,7 @@
 2. Концепт
 3. Activity
 4. Activity +18
-5. Alias
+5. [Alias](alias.md)
 6. Держу Пари
 7. Мафия
 
@@ -316,7 +316,7 @@
 28. Activity +18
 29. Имаджинариум
 30. Концепт
-31. Alias
+31. [Alias](alias.md)
 
 #### от часа и более
 
@@ -353,7 +353,7 @@
 15. Бэнг
 16. Activity
 17. Activity +18
-18. Alias
+18. [Alias](alias.md)
 19. Маленький Принц
 20. Держу Пари
 21. Блиц
