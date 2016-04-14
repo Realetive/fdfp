@@ -1,4 +1,5 @@
 # Alias
+
 ![alias](img/alias.jpg)
 
 Игра разъяснения слов 
