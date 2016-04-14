@@ -38,7 +38,7 @@
        * [По сложности правил](games/board_games/by_rules.md)
            * [очень простые](games/board_games/very_simple.md)
            * [требует некоторого времени](games/board_games/medium_difficulty.md)
-           * [сложные](games/board_games/hard_difficulty.md)
+           * [сложные](games/board_games/hard_difficult.md)
        * [По алфавиту](games/all/by_abc.md)
            * [Activity](games/board_games/activity.md)
            * [Alias](games/board_games/alias.md)
