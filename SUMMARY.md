@@ -3,7 +3,7 @@
 * [Главная страница](README.md)
 * [Афиша мероприятий](afisha/README.md)
    * [Апрель 2016](afisha/2016-02.md)
-   * [Март 2016](afisha/2016-03.md)
+   * [Май 2016](afisha/2016-03.md)
    * [Апрель 2016](afisha/2016-04.md)
 * [События](events/README.md)
    * [Категории](events/categories.md)
