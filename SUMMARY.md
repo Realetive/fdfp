@@ -14,7 +14,7 @@
        * [По популярности (ТОП-10)](games/board_games/top-10.md)
        * [По категориям](games/board_games/categories.md)
            * [Карточные игры](games/board_games/cards.md)
-           * «Игры с доской»
+           * [«Игры с доской»](games/board_games/on_board.md)
            * Игры с кубиками
            * Настольные ролевые игры, или разговорные ролевые игры
            * Игры на бумаге
