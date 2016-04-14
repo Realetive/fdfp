@@ -27,7 +27,7 @@
            * [на двоих](games/board_games/tet-a-tet.md)
            * [на 2–3 игроков](games/board_games/for_2-3_players.md)
            * [до 5 игроков](games/board_games/up_to_5_players.md)
-           * до 8 игроков
+           * [до 8 игроков](games/board_games/up_to_8_players.md)
            * до 12 игроков
            * более 12 игроков
        * По длительности игры
