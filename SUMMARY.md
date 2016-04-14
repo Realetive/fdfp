@@ -25,7 +25,7 @@
            * [для старших возрастных категорий](games/board_games/for_oldest.md)
        * [По количеству игроков](games/board_games/by_players.md)
            * [на двоих](games/board_games/tet-a-tet.md)
-           * на 2–3 игроков
+           * [на 2–3 игроков](games/board_games/for_2-3_players.md)
            * до 5 игроков
            * до 8 игроков
            * до 12 игроков
