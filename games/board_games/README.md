@@ -5,7 +5,7 @@
 ## По популярности (ТОП-10 игр)
 
 1. [Alias](alias.md)
-2. Activity
+2. [Activity](activity.md)
 3. Doble
 4. Манчкин
 5. Set
