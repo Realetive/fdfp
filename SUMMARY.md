@@ -39,7 +39,7 @@
            * очень простые
            * требует некоторого времени
            * сложные
-       * [По алфавиту](games/all/README.md)
+       * [По алфавиту](games/all/by_abc.md)
            * [Activity](games/board_games/activity.md)
            * [Alias](games/board_games/alias.md)
    * [XBox](games/xbox/README.md)
