@@ -11,8 +11,6 @@
    * [Ночь кино](events/kinonoch.md)
 * [Игры](games/README.md)
    * [Настольные игры](games/board_games/README.md)
-       * [Alias](games/board_games/alias.md)
-       * [Activity](games/board_games/activity.md)
    * [XBox](games/xbox/README.md)
 * [Аренда залов](rent/README.md)
    * [Основной зал](rent/osnovnoi_zal.md)
