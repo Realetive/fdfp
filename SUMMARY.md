@@ -37,7 +37,7 @@
            * [от часа и более](games/board_games/over_1_hour.md)
        * [По сложности правил](games/board_games/by_rules.md)
            * [очень простые](games/board_games/very_simple.md)
-           * требует некоторого времени
+           * [требует некоторого времени](games/board_games/medium_difficulty.md)
            * сложные
        * [По алфавиту](games/all/by_abc.md)
            * [Activity](games/board_games/activity.md)
