@@ -32,7 +32,7 @@
            * [более 12 игроков](games/board_games/over_12_players.md)
        * [По длительности игры](games/board_games/by_duration.md)
            * [до 10 минут](games/board_games/up_to_10_min.md)
-           * до 30 минут
+           * [до 30 минут](games/board_games/up_to_30_min.md)
            * до 60 минут
            * от часа и более
        * По сложности правил
