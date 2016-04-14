@@ -12,7 +12,7 @@
 * [Игры](games/README.md)
    * [Настольные игры](games/board_games/README.md)
        * [По популярности (ТОП-10)](games/board_games/top-10.md)
-       * По категориям
+       * [По категориям](games/board_games/categories.md)
            * Карточные игры
            * «Игры с доской»
            * Игры с кубиками
