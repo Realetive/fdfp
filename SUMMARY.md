@@ -22,7 +22,7 @@
            * [для всех возрастов](games/board_games/all_ages.md)
            * [с 8 лет](games/board_games/since_8_years.md)
            * [с 12 лет](games/board_games/since_12_years.md)
-           * для старших возрастных категорий
+           * [для старших возрастных категорий](games/board_games/for_oldest.md)
        * По количеству игроков
            * на двоих
            * на 2–3 игроков
