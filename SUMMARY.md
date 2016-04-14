@@ -18,7 +18,7 @@
            * [Игры с кубиками](games/board_games/dice_games.md)
            * [Настольные ролевые игры, или разговорные ролевые игры](games/board_games/role_games.md)
            * [Игры на бумаге](games/board_games/paper_game.md)
-       * По возрасту
+       * [По возрасту](games/board_games/by_age.md)
            * для всех возрастов
            * с 8 лет
            * с 12 лет
