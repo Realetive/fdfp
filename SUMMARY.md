@@ -36,7 +36,7 @@
            * [до 60 минут](games/board_games/up_to_60_min.md)
            * [от часа и более](games/board_games/over_1_hour.md)
        * [По сложности правил](games/board_games/by_rules.md)
-           * очень простые
+           * [очень простые](games/board_games/very_simple.md)
            * требует некоторого времени
            * сложные
        * [По алфавиту](games/all/by_abc.md)
