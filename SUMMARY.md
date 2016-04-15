@@ -27,19 +27,19 @@
            * [на двоих](games/board_games/tet-a-tet.md)
            * [на 2–3 игроков](games/board_games/for_2-3_players.md)
            * [до 5 игроков](games/board_games/up_to_5_players.md)
-           * до 8 игроков
-           * до 12 игроков
-           * более 12 игроков
-       * По длительности игры
-           * до 10 минут
-           * до 30 минут
-           * до 60 минут
-           * от часа и более
-       * По сложности правил
-           * очень простые
-           * требует некоторого времени
-           * сложные
-       * [По алфавиту](games/all/README.md)
+           * [до 8 игроков](games/board_games/up_to_8_players.md)
+           * [до 12 игроков](games/board_games/up_to_12_players.md)
+           * [более 12 игроков](games/board_games/over_12_players.md)
+       * [По длительности игры](games/board_games/by_duration.md)
+           * [до 10 минут](games/board_games/up_to_10_min.md)
+           * [до 30 минут](games/board_games/up_to_30_min.md)
+           * [до 60 минут](games/board_games/up_to_60_min.md)
+           * [от часа и более](games/board_games/over_1_hour.md)
+       * [По сложности правил](games/board_games/by_rules.md)
+           * [очень простые](games/board_games/very_simple.md)
+           * [требует некоторого времени](games/board_games/medium_difficulty.md)
+           * [сложные](games/board_games/hard_difficult.md)
+       * [По алфавиту](games/all/by_abc.md)
            * [Activity](games/board_games/activity.md)
            * [Alias](games/board_games/alias.md)
    * [XBox](games/xbox/README.md)
