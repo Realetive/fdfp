@@ -5,7 +5,7 @@
 <div class="row">
   <div class="col-sm-6">
     <a href="board_games/README.md" class="thumbnail">
-      <img src="http://placehold.it/450x300" class="img-responsive" alt="Настольные игры">
+      <img src="/games/board450#300.jpg" class="img-responsive" alt="Настольные игры">
       <div class="caption text-xs-center">
         Настольные игры
       </div>
