@@ -10,9 +10,9 @@
 
 | ВКонтакте | https://vk.com/fdfp_ru |
 | --------- | ---------------------- |
-| Twitter   | https://twitter.com    |
-| Facebook  | https://facebook.com   |
-| Instagram | https://instagram.com  |
+| Twitter   |  twitter.com/FREEDOM_FP_SPB   |
+| Facebook  |  www.facebook.com/fdfp.spb  |
+| Instagram | www.instagram.com/freedom_spb/  |
 
 ## Персоналии
 
