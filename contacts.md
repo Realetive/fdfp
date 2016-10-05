@@ -10,13 +10,13 @@
 
 | ВКонтакте | https://vk.com/fdfp_ru |
 | --------- | ---------------------- |
-| Twitter   |  twitter.com/FREEDOM_FP_SPB   |
-| Facebook  |  www.facebook.com/fdfp.spb  |
-| Instagram | www.instagram.com/freedom_spb/  |
+| Twitter   | https://twitter.com/FREEDOM_FP_SPB   |
+| Facebook  | https://www.facebook.com/fdfp.spb  |
+| Instagram | https://www.instagram.com/freedom_spb/  |
 
 ## Персоналии
 
-<img src="http://placehold.it/150x150" align="right">
+
 
 ### Имя Отчество, должность
 
