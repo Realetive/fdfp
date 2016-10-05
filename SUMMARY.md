@@ -2,9 +2,9 @@
 
 * [Главная страница](README.md)
 * [Афиша мероприятий](afisha/README.md)
-    * [Март 2016](afisha/2016-03.md)
-    * [Февраль 2016](afisha/2016-02.md)
-    * [Апрель 2016](afisha/2016-04.md)
+    * [Октябрь 2016](afisha/2016-04.md)
+    * [Ноябрь 2016](afisha/2016-03.md)
+    * [Декабрь 2016](afisha/2016-02.md)
 * [События](events/README.md)
     * [Категории](events/categories.md)
     * [Мафия](events/mafiya.md)
