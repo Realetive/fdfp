@@ -15,7 +15,7 @@
 
 **К слову, теперь мы работаем до 6 утра не только на выходных!**
 
-![](http://placehold.it/950x30)
+![](https://psv4.vk.me/c810528/u260636074/docs/5df78c155a77/line.jpg?extra=W9A5bC5sdWMi6HijxgWkazEgGhaK_BlQJ6bGLwPlEPVuXbOrlvKFWfbIr8pajYOnyRP6Ee_TFlrM-Qo6VyT6Wsk494RdGeIqVnJTbQl-T4MTfNlK-fjyGfj41w)
 
 ## Наше расписание
 
