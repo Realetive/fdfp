@@ -61,7 +61,7 @@
 <div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/ae81/eN5ywMGg9jA.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c637517/v637517074/1638a/KfC40ou8_D8.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Игровой зал
       </div>
