@@ -1,6 +1,6 @@
 # Контакты
 
-![](http://placehold.it/950x450)
+![](Команда.jpg)
 
 По всем вопросам звоните: <a href="tel:+78125795763">579-57-63</a> (ежедневно, с 12 до полуночи).
 
@@ -10,6 +10,7 @@
 
 | ВКонтакте | https://vk.com/fdfp_ru |
 | --------- | ---------------------- |
+<<<<<<< HEAD
 | Twitter   | https://twitter.com/FREEDOM_FP_SPB   |
 | Facebook  | https://www.facebook.com/fdfp.spb  |
 | Instagram | https://www.instagram.com/freedom_spb/  |
@@ -17,19 +18,53 @@
 ## Персоналии
 
 
+=======
+| Twitter   | https://twitter.com/FREEDOM_FP_SPB    |
+| Facebook  | https://www.facebook.com/fdfp.spb   |
+| Instagram | https://www.instagram.com/freedom_spb  |
 
-### Имя Отчество, должность
-
-* Какие вопросы решает
-* Контакты
+## Персоналии
 
 - - -
 
-<img src="http://placehold.it/150x150" align="right">
+![](Окс.jpg)
 
-### Имя Отчество, должность
+### Оксана, Лидер проекта
 
-* Какие вопросы решает
-* Контакты
+* +7 981 727 10 50
+* По всем вопросам
+
+![](аня.jpg)
+
+### Анна, управляющая
+
+* +7 904 607 72 63
+* work.fdfp@gmail.com
+
+- - -
+>>>>>>> origin/master
+
+![<img src="http://placehold.it/150x150" align="right">](Никита.jpg)
+
+### Игнат, Арт-директор
+
+* +7 911 286 99 31
+* fdfp88.ad@gmail.com
+
+- - -
+
+![](Оля.jpg)
+
+### Ольга, организатор мероприятий
+
+* +7 981 882 1000
+
+
+
+
+
+
+
+
 
 - - -
