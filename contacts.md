@@ -10,26 +10,26 @@
 
 | ВКонтакте | https://vk.com/fdfp_ru |
 | --------- | ---------------------- |
-| Twitter   | https://twitter.com    |
-| Facebook  | https://facebook.com   |
-| Instagram | https://instagram.com  |
+| Twitter   | https://twitter.com/FREEDOM_FP_SPB    |
+| Facebook  | https://www.facebook.com/fdfp.spb   |
+| Instagram | https://www.instagram.com/freedom_spb  |
 
 ## Персоналии
 
-<img src="http://placehold.it/150x150" align="right">
+![](аня.jpg)
 
-### Имя Отчество, должность
+### Анна, управляющая
 
-* Какие вопросы решает
-* Контакты
+* +7 904 607 72 63
+* work.fdfp@gmail.com
 
 - - -
 
-<img src="http://placehold.it/150x150" align="right">
+![<img src="http://placehold.it/150x150" align="right">](Никита.jpg)
 
-### Имя Отчество, должность
+### Игнат, Арт-директор
 
-* Какие вопросы решает
-* Контакты
+* +7 911 286 99 31
+* fdfp88.ad@gmail.com
 
 - - -
