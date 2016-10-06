@@ -13,7 +13,7 @@
   </div>
   <div class="col-sm-6">
     <a href="xbox/README.md" class="thumbnail">
-      <img src="http://placehold.it/450x300" class="img-responsive" alt="Игры XBox">
+      <img src="https://pp.vk.me/c604717/v604717074/ae81/eN5ywMGg9jA.jpg" class="img-responsive" alt="Игры XBox">
       <div class="caption text-xs-center">
         Игры XBox
       </div>
