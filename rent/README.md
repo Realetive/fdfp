@@ -9,7 +9,7 @@
 <div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/af16/CUIvtmWrdCo.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Основной зал
       </div>
@@ -17,7 +17,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/aea4/BBSiCqlyr3s.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/af01/PMUJkWudgG8.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Хижина»
       </div>
@@ -25,7 +25,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/ae88/HSqTTRM6c9g.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/aeec/mKBn7l-Cu90.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Африка»
       </div>
@@ -35,7 +35,7 @@
 <div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/ae96/rOxv0xWDE38.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/aef3/0Mzf3vfOHx0.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Коворкинг
       </div>
@@ -43,7 +43,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/ae9d/-pVOr0PRtRg.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/aefa/N_9c4ACrQ_o.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Восток»
       </div>
@@ -51,7 +51,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/aeab/WuJbzF7z3dY.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/af0f/vZMp3p2zOak.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Мафия»
       </div>
@@ -69,7 +69,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="https://pp.vk.me/c604717/v604717074/ae8f/8pxsUJKToOM.jpg" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/af1d/YxAy9Y46Izw.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Бар
       </div>
@@ -77,7 +77,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/af08/UIjgB2dWlEk.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Коридоры
       </div>
