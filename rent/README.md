@@ -17,7 +17,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/aea4/BBSiCqlyr3s.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Хижина»
       </div>
@@ -25,7 +25,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/ae88/HSqTTRM6c9g.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Африка»
       </div>
@@ -35,7 +35,7 @@
 <div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/ae96/rOxv0xWDE38.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Коворкинг
       </div>
@@ -43,7 +43,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/ae9d/-pVOr0PRtRg.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Восток»
       </div>
@@ -51,7 +51,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/aeab/WuJbzF7z3dY.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         «Мафия»
       </div>
@@ -69,7 +69,7 @@
   </div>
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/ae8f/8pxsUJKToOM.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Бар
       </div>
