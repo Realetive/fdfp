@@ -61,7 +61,7 @@
 <div class="row">
   <div class="col-sm-4">
     <a href="#" class="thumbnail">
-      <img src="http://placehold.it/450x350" class="img-responsive" alt="">
+      <img src="https://pp.vk.me/c604717/v604717074/ae81/eN5ywMGg9jA.jpg" class="img-responsive" alt="">
       <div class="caption text-xs-center">
         Игровой зал
       </div>
