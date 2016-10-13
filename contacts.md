@@ -43,7 +43,7 @@
 
 - - -
 
-![<img src="http://placehold.it/150x150" align="right">](Никита.jpg)
+![](ИгнатPNG.png)
 
 ### Игнат, Арт-директор
 
