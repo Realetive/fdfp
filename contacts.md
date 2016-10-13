@@ -42,7 +42,6 @@
 * work.fdfp@gmail.com
 
 - - -
->>>>>>> origin/master
 
 ![<img src="http://placehold.it/150x150" align="right">](Никита.jpg)
 
@@ -53,7 +52,7 @@
 
 - - -
 
-![](Оля.jpg)
+![](OlgaPNG.png)
 
 ### Ольга, организатор мероприятий
 
